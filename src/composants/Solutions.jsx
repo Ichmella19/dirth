@@ -2,7 +2,7 @@
 
 const Solutions = () => {
     return ( 
-        <section className="bg-lime-500 py-10 justify-center flex flex-wrap gap-y-5 md:gap-x-10 xl:gap-x-28 2xl:gap-x-36 ">
+        <section className="bg-lime-600 py-10 justify-center flex flex-wrap gap-y-5 md:gap-x-10 xl:gap-x-28 2xl:gap-x-36 ">
             <div className="text-center pt-0 md:pt-12">
                 <div className="text-stone-200 text-2xl md:text-3xl xl:text-5xl 2xl:text-6xl font-semibold pb-2">
                     <h1 className="uppercase">business</h1>

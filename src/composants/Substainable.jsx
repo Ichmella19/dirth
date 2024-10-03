@@ -1,6 +1,6 @@
 const Substainable = () => {
     return ( 
-        <section className=" relative  bg-lime-500 py-10 ">
+        <section className=" relative  bg-lime-600 py-10 ">
             
             <div className="absolute top-0 left-0 xl:left-1/4 pl-2 md:pl-0 pt-5">
                     <img className="h-16 md:h-32 lg:h-44" src="/src/assets/assets/solutions/image-1.png" alt="Business" />

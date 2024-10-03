@@ -8,7 +8,7 @@ const Learning = () => {
                 <div className="absolute top-0 pl-56 md:pl-72">
                     <img className="h-16 md:h-32" src="/src/assets/assets/learning/Shape gauche.png" alt="Business" />
                 </div>
-                <div className="pl-12 md:pl-0 text-lime-500 text-2xl md:text-3xl xl:text-5xl 2xl:text-6xl font-semibold pb-2">
+                <div className="pl-12 md:pl-0 text-lime-600 text-2xl md:text-3xl xl:text-5xl 2xl:text-6xl font-semibold pb-2">
                     <h1>Learning</h1>
                     <h1 >How to</h1>
                     <h1>Recycle</h1>
@@ -19,7 +19,7 @@ const Learning = () => {
                     <p>and creates a long-term solution for you and your business.</p>
                     <p>Modern solutions designed for you.</p>
                 </div>
-                <div className="ml-12 md:ml-0 bg-lime-500 text-stone-200 text-lg md:text-xl font-bold uppercase rounded-xl p-1 md:p-2  w-1/2 text-center">
+                <div className="ml-12 md:ml-0 bg-lime-600 text-stone-200 text-lg md:text-xl font-bold uppercase rounded-xl p-1 md:p-2  w-1/2 text-center">
                     <h1>Get Started</h1>
                 </div>
             </div>
