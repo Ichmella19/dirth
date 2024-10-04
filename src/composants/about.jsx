@@ -4,7 +4,7 @@ const about = () => {
   return (
     <section className='bg-lime-600 cursor-pointer justify-center flex-wrap'>
         <div className='text-white w-[6%] '>
-            <img src="../src/assets/assets/learning/gauche.png" alt="" />
+            <img src="../public/assets/learning/gauche.png" alt="" />
         </div>
         <div className=' flex-wrap text-center p-8 '>
             <p className='text-center md:text-3xl text-xl text-white font-semibold '>WASTE MANAGEMENT</p>
@@ -15,7 +15,7 @@ const about = () => {
             <button className='p-4 bg-white rounded-lg cursor-pointer hover:bg-lime-100 mt-4 hover:scale-95 transition-all duration-300'>
                 <p className='text-lime-600 font-medium'>Learn More</p>
             </button>
-            <img src="../src/assets/assets/learning/gauche.png" alt="" className='w-[6%] left-[10%]'/>
+            <img src="../public/assets/learning/gauche.png" alt="" className='w-[6%] left-[10%]'/>
         </div>
        
     </section>

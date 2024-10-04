@@ -19,7 +19,7 @@ const Solutions = () => {
                 </div>
             </div>
             <div>
-                <img className="h-64 md:h-72 lg:h-80 xl:h-96" src="\src/assets\assets\business\Image.png" alt="Business" />
+                <img className="h-64 md:h-72 lg:h-80 xl:h-96" src="\public/assets\business\Image.png" alt="Business" />
             </div>
         </section>
      );

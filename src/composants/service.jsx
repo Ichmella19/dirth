@@ -6,42 +6,42 @@ const Service = () => {
         id:1,
         description:"Environnemental Service that can help you with organizing and properly disposing your waste ",
        
-        image:'../src/assets/assets/service/plastic.png '
+        image:'../public/assets/service/plastic.png '
 
     },
     {
       id:2,
       description:"Environnemental Service that can help you with organizing and properly disposing your waste",
       
-      image:'../src/assets/assets/service/volunteers1.png '
+      image:'../public/assets/service/volunteers1.png '
 
   },
   {
     id:3,
     description:"Environnemental Service that can help you with organizing and properly disposing your waste",
     
-    image:'../src/assets/assets/service/volunteers2.png '
+    image:'../public/assets/service/volunteers2.png '
 
 },
 {
   id:4,
   description:"Environnemental Service that can help you with organizing and properly disposing your waste",
 
-  image:'../src/assets/assets/service/dechet.png '
+  image:'../public/assets/service/dechet.png '
 
 },
 {
   id:5,
   description:"Environnemental Service that can help you with organizing and properly disposing your waste",
  
-  image:'../src/assets/assets/service/image5.png '
+  image:'../public/assets/service/image5.png '
 
 },
 {
   id:6,
   description:"Environnemental Service that can help you with organizing and properly disposing your waste",
   
-  image:'../src/assets/assets/service/image6.png '
+  image:'../public/assetss/service/image6.png '
 
 },
  ]

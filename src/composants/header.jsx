@@ -24,12 +24,12 @@ const header = () => {
           }
          </ul>
         </div>
-        <img src="../src/assets/assets/learning/gauche.png" alt="" className='w-16 h-16 absolute left-[70%] hidden md:flex'/>
+        <img src="../public/assets/learning/gauche.png" alt="" className='w-16 h-16 absolute left-[70%] hidden md:flex'/>
          
         <div className='md:hidden flex ' onClick={() => 
            setOpen(!open)}>
          <MdMenu className='text-5xl '/>
-         <img src="../src/assets/assets/learning/gauche.png" alt="" className='md:hidden w-14 ml-20'/>
+         <img src="../public/assets/learning/gauche.png" alt="" className='md:hidden w-14 ml-20'/>
         </div>
     </div>
     <ResponsiveMenu open={open}/>
