@@ -36,14 +36,7 @@ const footer = () => {
             <p className="mt-2 text-lime-600">Social Media</p>
            
           </div>
-          <div className="flex flex-col  px-20  mt-5 font-medium md:text-xl">
-          
-            <p className="mt-3 text-lime-600">Team and Condition</p>
-            <p className="mt-2 text-lime-600">Privacy Policy</p>
-            <p className="mt-2 text-lime-600">Copyright</p>
-            <p className="mt-2 text-lime-600">Cookies Policy</p>
-          
-          </div>
+         
         </section>
    </section>
     
