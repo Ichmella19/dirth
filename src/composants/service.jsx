@@ -63,7 +63,7 @@ const Service = () => {
                   <div >
                   <img src={blog.image} alt="" className=" cursor-pointer hover:scale-95 transition-all duration-300"/>
                      <div >
-                        <p className=" font-medium md:text-xl text-lg mt-5  pr-40 ">{blog.description}</p>
+                        <p className=" font-medium  text-lg mt-5  pr-40 ">{blog.description}</p>
                     
                      
                      </div>
