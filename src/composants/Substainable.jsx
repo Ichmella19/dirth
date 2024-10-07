@@ -11,7 +11,7 @@ const Substainable = () => {
                     <h1 >Solutions</h1>
                
                 </div>
-                <div className="text-gray-700 text-xs md:text-sm  px-16 md:px-0 pb-6 ">
+                <div className="text-gray-600 text-xs md:text-sm  px-16 md:px-0 pb-6 font-semibold ">
                     <p>Excess waste? Let us handle all the work, and turn wastes </p>
                     <p>to energy. A sustainable solution that repurposes wastes </p>
                     <p>and creates a long-term solution for you and your business.</p>
