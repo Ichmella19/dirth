@@ -34,7 +34,7 @@ const header = () => {
     </div>
     <ResponsiveMenu open={open}/>
     <section className='bg-gray-200'>
-    <div className='w-[33%]  h-1 bg-lime-600 hidden md:flex ml-[56%] '></div>
+    <div className='w-[34%]  h-1 bg-lime-600 hidden md:flex ml-[56%] '></div>
     </section>
   
     
