@@ -15,7 +15,7 @@ const about = () => {
             <button className='p-4 bg-white rounded-lg cursor-pointer hover:bg-lime-100 mt-4 hover:scale-95 transition-all duration-300'>
                 <p className='text-lime-600 font-medium'>Learn More</p>
             </button>
-            <img src="../public/assets/learning/gauche.png" alt="" className='w-[6%] left-[10%]'/>
+            <img src="/assets/learning/gauche.png" alt="" className='w-[6%] left-[10%]'/>
         </div>
        
     </section>
