@@ -10,7 +10,7 @@ const header = () => {
    <nav className=''>
     <div className=" flex  items-center py-8 bg-gray-200 ">
        
-     <div className='hidden md:block ml-[62%]'>
+     <div className='hidden md:block ml-[55%]'>
          <ul className='flex  gap-6 text-lime-600 text-xl cursor-pointer hover:text-lime-800 justify-end hover:scale-95 transition-all duration-300'>
          
           {
@@ -24,7 +24,7 @@ const header = () => {
           }
          </ul>
         </div>
-        <img src="/assets/learning/gauche.png" alt="" className=' absolute left-[92%] hidden md:flex'/>
+        <img src="/assets/learning/gauche.png" alt="" className=' absolute w-[15%] left-[85%] hidden md:flex'/>
          
         <div className='md:hidden flex ' onClick={() => 
            setOpen(!open)}>
@@ -34,7 +34,7 @@ const header = () => {
     </div>
     <ResponsiveMenu open={open}/>
     <section className='bg-gray-200'>
-    <div className='w-[30%]  h-1 bg-lime-600 hidden md:flex ml-[63%]'></div>
+    <div className='w-[30%]  h-1 bg-lime-600 hidden md:flex ml-[55%]'></div>
     </section>
   
     
