@@ -10,7 +10,7 @@ const footer = () => {
             <p className='mt-5'>Legal</p>
         </div>
         <div className='border-b border-2 border-lime-600 hover:text-lime-800 cursor-pointer '></div>
-        <section className="bg-gray-200 w-full min-h-80 relative flex flex-wrap">
+        <section className="bg-gray-200 w-full min-h-80 relative flex flex-wrap justify-center mt-5 text-2xl">
          
           <div className="flex flex-col  px-20 mt-5 font-medium md:text-xl">
            
@@ -20,7 +20,7 @@ const footer = () => {
             <p className="mt-2 text-lime-600">Press Release</p>
             <p className="mt-2 text-lime-600">Our Works</p>
           </div>
-          <div className="flex flex-col  px-20 mt-5 font-medium md:text-xl">
+          <div className="flex flex-col ml-10 md px-20 mt-5 font-medium md:text-xl">
           
             <p className="mt-3 text-lime-600">Waste to energy</p>
             <p className="mt-2 text-lime-600">Home waste recycling</p>
@@ -28,7 +28,7 @@ const footer = () => {
             <p className="mt-2 text-lime-600">Home Solutions</p>
            
           </div>
-          <div className="flex flex-col  px-20 mt-5 font-medium md:text-xl">
+          <div className="flex flex-col mr-10 px-20 mt-5 font-medium md:text-xl">
            
             <p className="mt-3 text-lime-600">Careers</p>
             <p className="mt-2 text-lime-600">Plans Pricing</p>

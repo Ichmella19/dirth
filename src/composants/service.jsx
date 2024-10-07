@@ -41,7 +41,7 @@ const Service = () => {
   id:6,
   description:"Environnemental Service that can help you with organizing and properly disposing your waste",
   
-  image:'../public/assetss/service/image6.png '
+  image:'../public/assets/service/image6.png '
 
 },
  ]
@@ -49,8 +49,8 @@ const Service = () => {
 
   return (
  <section className='flex-wrap  bg-gray-200 p-16 md:p-0' >
- <div className='text-center md:text-6xl text-2xl font-semibold text-lime-500 italic tracking-normal cursor-pointer hover:text-lime-900 hover:scale-95 transition-all duration-300'>
-    <h1 >OUR SERVICES </h1>
+ <div className='text-center md:text-6xl text-2xl font-semibold text-lime-500 italic tracking-normal cursor-pointer hover:text-lime-900 hover:scale-95 transition-all duration-300 '>
+    <h1 className=''>OUR SERVICES </h1>
  </div>
 
 
@@ -63,7 +63,7 @@ const Service = () => {
                   <div >
                   <img src={blog.image} alt="" className=" cursor-pointer hover:scale-95 transition-all duration-300"/>
                      <div >
-                        <p className=" font-medium md:text-xl text-lg mt-5 justify-center">{blog.description}</p>
+                        <p className=" font-medium md:text-xl text-lg mt-5  px-29 ">{blog.description}</p>
                     
                      
                      </div>
