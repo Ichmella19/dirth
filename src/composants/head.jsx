@@ -21,7 +21,7 @@ const head = () => {
     
     </div>
    <div className='p-5 '>
-   <img src="../public/assets/accueil/image/photo.png" alt="" className='md:w-[70%] md:ml-[10%] cursor-pointer hover:scale-95 transition-all duration-300'/>
+   <img src="/assets/accueil/image/photo.png" alt="" className='md:w-[70%] md:ml-[10%] cursor-pointer hover:scale-95 transition-all duration-300'/>
    </div>
    </section>
   )

@@ -8,7 +8,7 @@ const Solutions = () => {
                     <h1 className="uppercase">business</h1>
                     <h1 className="uppercase">solutions</h1>
                 </div>
-                <div className="text-gray-500 text-xs md:text-sm 2xl:text-lg px-12 md:px-0 pb-6 font-semibold">
+                <div className="text-black text-xs md:text-sm  px-12 md:px-0 pb-6 ">
                     <p>Excess waste? Let us handle all the work, and turn wastes </p>
                     <p>to energy. A sustainable solution that repurposes wastes </p>
                     <p>and creates a long-term solution for you and your business.</p>
@@ -19,7 +19,7 @@ const Solutions = () => {
                 </div>
             </div>
             <div>
-                <img className="h-64 md:h-72 lg:h-80 xl:h-96" src="\public/assets\business\Image.png" alt="Business" />
+                <img className="h-64 md:h-72 lg:h-80 xl:h-96" src="/assets\business\Image.png" alt="Business" />
             </div>
         </section>
      );
