@@ -24,7 +24,7 @@ const header = () => {
           }
          </ul>
         </div>
-        <img src="/assets/learning/gauche.png" alt="" className=' absolute w-[15%] left-[85%] hidden md:flex'/>
+        <img src="/assets/recyclage/shape1.png" alt="" className=' absolute w-[10%] -right-[0%] hidden md:flex mt-[15%]'/>
          
         <div className='md:hidden flex ' onClick={() => 
            setOpen(!open)}>
