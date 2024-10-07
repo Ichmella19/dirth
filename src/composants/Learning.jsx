@@ -2,9 +2,9 @@ const Learning = () => {
     return ( 
         <section className="  bg-stone-200 py-10 justify-center flex flex-wrap gap-y-8 md:gap-x-10 xl:gap-x-36 2xl:gap-x-52 ">
             <div>
-                <img className="h-64 md:h-72 lg:h-80 xl:h-96" src="/assets/learning/image-all.png" alt="Business" />
+                <img className="h-64 md:h-72 lg:h-80 xl:h-96 " src="/assets/learning/image-all.png" alt="Business" />
             </div>
-            <div className=" relative pt-0 md:pt-12">
+            <div className=" relative pt-0 md:pt-5">
                 <div className="absolute top-0 pl-56 md:pl-72 xl:pl-80">
                     <img className="h-16 md:h-32" src="/assets/learning/gauche.png" alt="Business" />
                 </div>
