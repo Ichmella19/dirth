@@ -13,7 +13,7 @@ const Recyclage = () => {
                         <div className="pl-12 md:pl-0 text-lime-600 text-2xl md:text-3xl xl:text-5xl 2xl:text-6xl font-semibold pb-2">
                             <h1>Recycling Pickup</h1>
                         </div>
-                        <div className="text-gray-700 text-xs md:text-sm  px-12 md:px-0 pb-6">
+                        <div className="text-gray-600 text-xs md:text-sm  px-12 md:px-0 pb-6 font-semibold">
                             <p>Excess waste? Let us handle all the work, and turn wastes </p>
                             <p>to energy. A sustainable solution that repurposes wastes </p>
                             <p>and creates a long-term solution for you and your business.</p>
@@ -24,7 +24,7 @@ const Recyclage = () => {
                         <div className="pl-12 md:pl-0 text-lime-600 text-2xl md:text-3xl xl:text-5xl 2xl:text-6xl font-semibold pb-2">
                             <h1>Business Waste</h1>
                         </div>
-                        <div className="text-gray-700 text-xs md:text-sm px-12 md:px-0 pb-6 ">
+                        <div className="text-gray-600 text-xs md:text-sm px-12 md:px-0 pb-6 font-semibold">
                             <p>Excess waste? Let us handle all the work, and turn wastes </p>
                             <p>to energy. A sustainable solution that repurposes wastes </p>
                             <p>and creates a long-term solution for you and your business.</p>
