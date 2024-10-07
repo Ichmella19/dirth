@@ -10,7 +10,7 @@ const footer = () => {
             <p className='mt-5'>Legal</p>
         </div>
         <div className='border-b border-2 border-lime-600 hover:text-lime-800 cursor-pointer '></div>
-        <section className="bg-gray-200 w-full min-h-80 relative flex flex-wrap justify-center mt-5 text-2xl">
+        <section className="bg-gray-200 w-full min-h-80 relative flex flex-wrap justify-center mt-5 font-medium">
          
           <div className="flex flex-col  px-20 mt-5 ">
            
