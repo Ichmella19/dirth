@@ -1,11 +1,11 @@
 const Recyclage = () => {
     return ( 
-        <section className="  bg-stone-200 py-10 justify-center flex flex-wrap gap-y-8 md:gap-x-10 xl:gap-x-36 2xl:gap-x-52 ">
+        <section className=" relative bg-stone-200 py-10 justify-center flex flex-wrap gap-y-8 md:gap-x-10 xl:gap-x-36 2xl:gap-x-52 ">
             <div>
                 <img className="h-64 md:h-72 lg:h-84 xl:h-96 2xl:h-auto" src="/public/assets/recyclage/Image-all.png" alt="Recyclage" />
             </div>
-            <div className=" relative pt-0 md:pt-14 2xl:pt-24">
-                <div className="absolute bottom-0 xl:bottom-7 right-0 lg:-right-1/3 xl:right-0">
+            <div className="  pt-0 md:pt-14 2xl:pt-24">
+                <div className="absolute bottom-0 xl:bottom-10 right-0 lg:-right-1/3 xl:right-0">
                     <img className="h-16 md:h-32" src="/assets/learning/gauche.png" alt="Business" />
                 </div>
                 <div className="pb-4">
