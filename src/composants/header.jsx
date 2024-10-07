@@ -24,7 +24,7 @@ const header = () => {
           }
          </ul>
         </div>
-        <img src="/assets/learning/gauche.png" alt="" className='w-16 h-16 absolute left-[70%] hidden md:flex'/>
+        <img src="/assets/learning/gauche.png" alt="" className=' absolute left-[92%] hidden md:flex'/>
          
         <div className='md:hidden flex ' onClick={() => 
            setOpen(!open)}>
@@ -34,7 +34,7 @@ const header = () => {
     </div>
     <ResponsiveMenu open={open}/>
     <section className='bg-gray-200'>
-    <div className='w-[29%]  h-1 bg-lime-600 hidden md:flex ml-[60%]'></div>
+    <div className='w-[30%]  h-1 bg-lime-600 hidden md:flex ml-[63%]'></div>
     </section>
   
     
